@@ -1,7 +1,3 @@
-/*
- * Here comes the text of your license
- * Each line should be prefixed with  * 
- */
 package com.jsonpoc;
 
 import com.fasterxml.jackson.databind.JsonNode;
@@ -15,10 +11,6 @@ import java.io.InputStream;
 import java.net.URL;
 import java.util.Set;
 
-/**
- *
- * @author ads
- */
 public class Client {
 
     private String dataFilePath = "D:/js/data.json";
